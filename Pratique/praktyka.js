@@ -441,24 +441,41 @@
     // console.log(rabais)
 
 
-//Switch/Switch Statement
-    switch (new Date().getDay()) {
-        case 0:
-            jour = "Dimanche";
-            break;
-        case 1:
-            jour = "Lundi";
-            break;
-        case 2:
-            jour = "Mardi";
-            break;
-        case 3:
-            jour = "Mercredi";
-            break;
-        case 4:
-            jour = "Jeudi";
-        case 5:
-            jour = "Vendredi";
-        case 6:
-            jour = "Samedi";
-    }
+//Conditions/Switch Statement
+    // switch (new Date().getDay()) {
+    //     case 0:
+    //         jour = "Dimanche";
+    //         break;
+    //     case 1:
+    //         jour = "Lundi";
+    //         break;
+    //     case 2:
+    //         jour = "Mardi";
+    //         break;
+    //     case 3:
+    //         jour = "Mercredi";
+    //         break;
+    //     case 4:
+    //         jour = "Jeudi";
+    //         break;
+    //     case 5:
+    //         jour = "Vendredi";
+    //         break;
+    //     case 6:
+    //         jour = "Samedi";
+    //         break;
+    // }
+    // console.log(jour)
+
+    // switch (new Date().getDay()) {
+    //     case 6:
+    //         texte = "Aujourd'hui, c'est Samedi";
+    //         break;
+    //     case 0:
+    //         texte = "Aujourd'hui, c'est dimanche";
+    //         break;
+    //     default:
+    //         texte = "J'ai hâte d'être au week-end";
+    // }
+
+    // console.log(texte)
